@@ -22,7 +22,7 @@ I'm a 3rd-year AI and Data Science student, passionate about Artificial Intellig
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanRao099&" alt="AmanRao099" /></p>
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/aman-rao-m-07410b306/)
+<a href="https://linkedin.com/in/www.linkedin.com/in/shashmitha-v-096b1a27b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shashmitha-v-096b1a27b" height="30" width="40" /></a>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aman099"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aman099" /></a></p><br><br>
 

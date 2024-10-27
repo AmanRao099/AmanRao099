@@ -1,4 +1,6 @@
-![Banner](https://github.com/user-attachments/assets/3c048565-e605-4af9-852f-b3f0b6881554)
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/user-attachments/assets/3c048565-e605-4af9-852f-b3f0b6881554">
+</div>
 
 # Hi there, I'm Aman! 👋
 

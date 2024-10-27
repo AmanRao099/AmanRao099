@@ -8,9 +8,11 @@
 
 I'm a 3rd-year AI and Data Science student, passionate about Artificial Intelligence, Machine Learning, and Robotics. Welcome to my GitHub profile, where I share projects, learnings, and ideas that help me grow in the tech world.
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/d998965a-c77f-4b04-967c-eeacabd7673d">
 
 ## 🌟 About Me
+
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/d998965a-c77f-4b04-967c-eeacabd7673d">
+
 - 🎓 Currently pursuing BE in AI & Data Science at **Srinivas Institute of Technology, Mangalore**
 - 🤖 Focused on **AI, ML, and Robotics** for my academic and personal projects
 - 💻 Skilled in **Python, C, MERN Stack, SQL, HTML,** and **R**

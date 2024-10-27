@@ -1,4 +1,4 @@
-![Banner](https://pin.it/1YaonwcFW)
+![Banner](https://github.com/user-attachments/assets/3c048565-e605-4af9-852f-b3f0b6881554)
 
 # Hi there, I'm Aman! 👋
 

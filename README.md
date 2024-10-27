@@ -19,6 +19,7 @@ I'm a 3rd-year AI and Data Science student, passionate about Artificial Intellig
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/aman-rao-m-07410b306/)
-- [Buy Me a Coffee](https://www.buymeacoffee.com/aman099)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/aman099"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aman099" /></a></p><br><br>
 
 Thank you for stopping by! 😊

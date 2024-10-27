@@ -1,16 +1,26 @@
-## Hi there 👋
+![Banner](https://pin.it/1YaonwcFW)
 
-<!--
-**AmanRao099/AmanRao099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Aman! 👋
 
-Here are some ideas to get you started:
+I'm a 3rd-year AI and Data Science student, passionate about Artificial Intelligence, Machine Learning, and Robotics. Welcome to my GitHub profile, where I share projects, learnings, and ideas that help me grow in the tech world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 Currently pursuing BE in AI & Data Science at **Srinivas Institute of Technology, Mangalore**
+- 🤖 Focused on **AI, ML, and Robotics** for my academic and personal projects
+- 💻 Skilled in **Python, C, MERN Stack, SQL, HTML,** and **R**
+- 🌱 Constantly learning and exploring new technologies in AI and software development
+
+## 🔧 Technologies & Tools
+- **Programming Languages:** Python, C, JavaScript (React, Node.js)
+- **Database Management:** SQL
+- **Web Development:** HTML, CSS, JavaScript (MERN stack)
+- **AI & Data Science Tools:** TensorFlow, Scikit-Learn, Pandas
+
+## 📈 GitHub Stats
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🤝 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/aman-rao-m-07410b306/)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/aman099)
+
+Thank you for stopping by! 😊

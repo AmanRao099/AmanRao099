@@ -5,7 +5,7 @@
 # Hi there, I'm Aman! 👋
 
 I'm a 3rd-year AI and Data Science student, passionate about Artificial Intelligence, Machine Learning, and Robotics. Welcome to my GitHub profile, where I share projects, learnings, and ideas that help me grow in the tech world.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanRao099&label=Profile%20views&color=0e75b6&style=flat" alt="AmanRao099" /> </p>
 ## 🌟 About Me
 - 🎓 Currently pursuing BE in AI & Data Science at **Srinivas Institute of Technology, Mangalore**
 - 🤖 Focused on **AI, ML, and Robotics** for my academic and personal projects

@@ -1,5 +1,5 @@
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/user-attachments/assets/3c048565-e605-4af9-852f-b3f0b6881554">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/user-attachments/assets/4f968b54-816b-4b0f-9c93-b194af8220f0">
 </div>
 
 # Hi there, I'm Aman! 👋
